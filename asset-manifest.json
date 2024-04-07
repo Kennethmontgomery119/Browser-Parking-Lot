@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.afb588c7.css",
+    "main.css": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.0cea7208.css",
     "main.js": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.38aa9c8e.js",
-    "static/media/Matrix.png": "/Kennethmontgomery119/Browser-Parking-Lot/static/media/Matrix.2c942525241bbf7a67d8.png",
+    "static/media/Matrix1.png": "/Kennethmontgomery119/Browser-Parking-Lot/static/media/Matrix1.a126c457328d431d8555.png",
     "index.html": "/Kennethmontgomery119/Browser-Parking-Lot/index.html",
-    "main.afb588c7.css.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.afb588c7.css.map",
+    "main.0cea7208.css.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.0cea7208.css.map",
     "main.38aa9c8e.js.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.38aa9c8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.afb588c7.css",
+    "static/css/main.0cea7208.css",
     "static/js/main.38aa9c8e.js"
   ]
 }
