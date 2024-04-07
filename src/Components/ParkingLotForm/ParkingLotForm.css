@@ -1,0 +1,16 @@
+.parking-lot-form {
+    margin: 3rem;
+    border: 2px solid rgb(104, 103, 103);
+    background-color: #111111de;
+    padding: 2rem;
+    text-align: left;
+    min-width: 250px;
+    box-sizing: content-box;
+    font-size: 30px;
+} 
+
+.button {
+    font-size: 30px;
+    background-color: goldenrod;
+    color:black;
+}
