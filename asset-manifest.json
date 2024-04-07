@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.964fdded.css",
+    "main.js": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.5c64f654.js",
+    "index.html": "/Kennethmontgomery119/Browser-Parking-Lot/index.html",
+    "main.964fdded.css.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.964fdded.css.map",
+    "main.5c64f654.js.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.5c64f654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.5c64f654.js"
+  ]
+}
