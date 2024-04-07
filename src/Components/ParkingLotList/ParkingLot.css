@@ -13,11 +13,11 @@
 }
 
 .parking-lot-item-anchor {
-    color: rgb(251, 236, 152);
+    color: rgb(219, 247, 173);
 }
 
 .parking-lot-item-anchor:visited {
-    color: rgb(34, 184, 74);
+    color: rgb(0, 204, 54);
 }
 
 .card-header {

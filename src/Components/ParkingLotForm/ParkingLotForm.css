@@ -1,6 +1,6 @@
 .parking-lot-form {
     margin: 3rem;
-    border: 2px solid rgb(104, 103, 103);
+    border: 2px solid rgb(44, 219, 0);
     background-color: #111111de;
     padding: 2rem;
     text-align: left;
@@ -10,7 +10,7 @@
 } 
 
 .button {
-    font-size: 30px;
-    background-color: goldenrod;
+    font-size: 35px;
+    background-color: rgb(18, 235, 11);
     color:black;
 }

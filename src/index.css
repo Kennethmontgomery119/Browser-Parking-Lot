@@ -1,19 +1,20 @@
 header {
-  padding: 5rem;
-  font-family: 'Playpen Sans';
-  font-size: 32px;
+  padding: 3rem;
+  font-family: "IM Fell English SC", serif;
+  font-size: 30px;
 }
 
 body {
-  color: whitesmoke;
+  color: rgb(255, 255, 255);
   background-image: url(./images/Matrix.png);
   background-size:cover;
   margin: auto;
-  font-family: -apple-system, BlinkMacSystemFont, 'Playpen Sans';
-  font-size: 30px;
+  font-family: "Special Elite", system-ui;
+  font-size: 40px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
