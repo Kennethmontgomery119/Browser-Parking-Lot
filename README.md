@@ -9,7 +9,7 @@ An item will contain:
 - a link
 - a short text description
 - date of creation
-- priority lable ( HIGH , MEDIUM , LOW ) 
+- priority lable ( `HIGH` , `MEDIUM` , `LOW` ) 
 
 ## User Stories 
 
