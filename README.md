@@ -1,5 +1,4 @@
-Hosting Link: https://Kennethmontgomery119.github.io/Browser-Parking-Lot/
-
+Hosting Link:
 
 # Browser Parking Lot 
 
