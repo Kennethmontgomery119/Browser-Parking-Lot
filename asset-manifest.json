@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.0cea7208.css",
-    "main.js": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.38aa9c8e.js",
+    "main.css": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.041ffcd2.css",
+    "main.js": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.127ba10c.js",
     "static/media/Matrix1.png": "/Kennethmontgomery119/Browser-Parking-Lot/static/media/Matrix1.a126c457328d431d8555.png",
     "index.html": "/Kennethmontgomery119/Browser-Parking-Lot/index.html",
-    "main.0cea7208.css.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.0cea7208.css.map",
-    "main.38aa9c8e.js.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.38aa9c8e.js.map"
+    "main.041ffcd2.css.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/css/main.041ffcd2.css.map",
+    "main.127ba10c.js.map": "/Kennethmontgomery119/Browser-Parking-Lot/static/js/main.127ba10c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cea7208.css",
-    "static/js/main.38aa9c8e.js"
+    "static/css/main.041ffcd2.css",
+    "static/js/main.127ba10c.js"
   ]
 }
